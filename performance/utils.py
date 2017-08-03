@@ -1,5 +1,6 @@
 import time
 
+
 class TimeFunction(object):
     def __init__(self, func):
         self.func = func
